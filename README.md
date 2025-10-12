@@ -39,7 +39,7 @@ To become a well-rounded **IT professional** with strong skills in **software de
 ### 💻 Programming & Web Development
 - 🐍 Python
 - 🌐 HTML, CSS
-- 🧩 PHP
+- 🤖 PHP
 - ⚙️ C
 - 🤞 Java
 
