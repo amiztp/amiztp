@@ -8,8 +8,7 @@ Faculty of Technology, University of Sri Jayewardenepura
 
 ## 🌟 About Me
 
-I'm a passionate and curious undergraduate studying at the **University of Sri Jayewardenepura**, Faculty of Technology.  
-My interests lie in **technology, software development, creative design**, and **problem-solving**. I love building things that make people's lives easier — whether it's a script, a website, a visual effect, or a powerful presentation.
+I'm a passionate and curious undergraduate studying at the **University of Sri Jayewardenepura**, Faculty of Technology. My interests lie in **technology, software development, creative design**, and **problem-solving**. I love building things that make people's lives easier — whether it's a script, a website, a visual effect, or a powerful presentation.
 
 ---
 
@@ -42,6 +41,7 @@ To become a well-rounded **IT professional** with strong skills in **software de
 - 🌐 HTML, CSS
 - 🧩 PHP
 - ⚙️ C
+- 🤞 Java
 
 ---
 
