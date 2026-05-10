@@ -11,26 +11,8 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=amiztp&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/amiztp?style=for-the-badge&color=00ffff&labelColor=000000"/>
-
-<img src="https://img.shields.io/github/stars/amiztp?style=for-the-badge&color=ff00ff&labelColor=000000"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-<div align="center">
-
-🎓 Undergraduate Student at  
-Faculty of Technology, University of Sri Jayewardenepura
-
-💻 Passionate about:
-Web Development • Software Engineering • IoT • Creative Design • Motion Graphics
-
-🚀 Building real-world tech solutions with modern tools & creativity.
+<img src="https://img.shields.io/github/followers/amiztp?style=for-the-badge&color=00ffff"/>
+<img src="https://img.shields.io/github/stars/amiztp?style=for-the-badge&color=ff00ff"/>
 
 </div>
 
@@ -40,66 +22,69 @@ Web Development • Software Engineering • IoT • Creative Design • Motion 
 
 <div align="center">
 
-## 💻 Programming Languages
+## 💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,php,html,css,arduino" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,php,html,css,arduino,rust" />
 
-✔ Python • Java • C • C++ • C# • PHP • HTML • CSS • Arduino
+<br><br>
 
----
+## 🎨 Creative
 
-## 🎨 Creative Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
-</p>
 
-✔ Photoshop • Illustrator • After Effects • Premiere Pro
+<br><br>
 
----
+## ⚙️ Development Tools
 
-## ⚙️ Microsoft Office Suite
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=word,excel,powerpoint" />
-</p>
+<br><br>
 
-✔ Word • Excel • PowerPoint  
-📁 Microsoft Access (Not available as icon)
-
----
-
-## 🎥 Media & Utility Tools
-
-🎙 OBS Studio – Streaming & Recording  
-🎧 Audacity – Audio Editing  
-🌐 Tor Browser – Secure Browsing  
-
----
-
-## 💻 Development Tools
+## 📃 Microsoft Office
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,rust" />
+<img src="https://cdn-icons-png.flaticon.com/512/15465/15465764.png" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/732/732218.png" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn-icons-png.flaticon.com/512/15465/15465726.png" height="40"/>
 </p>
 
-✔ Git • GitHub • VS Code • Linux • Rust
+---
+
+## 🎥 Media & Utility Software
+
+<p>
+<img src="https://cdn.simpleicons.org/obsstudio/302E31" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/audacity/0000CC" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/torproject/7D4698" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/rustdesk/FF6600" height="40"/>
+</p>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 💫 About Me
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=radical&hide_border=true&border_radius=20"/>
+🎓 Undergraduate at Faculty of Technology, University of Sri Jayewardenepura  
+💻 Passionate about Software Development, IoT, Design & Innovation  
+🚀 Building real-world creative tech solutions  
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<!--<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=radical&hide_border=true"/>-->
 
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=radical&hide_border=true&border_radius=20"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -116,58 +101,26 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=amiztp&theme
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amiztp&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=amiztp&theme=radical&no-frame=true&row=2&column=4"/>
 
 </div>
 
 ---
 
-# 🧠 Skills Table
-
-<div align="center">
-
-| Category | Skills |
-|---|---|
-| 💻 Programming | Python, Java, C, C++, C#, PHP |
-| 🌐 Web Dev | HTML, CSS |
-| 🤖 IoT | Arduino |
-| 🎨 Design | Photoshop, Illustrator |
-| 🎬 Video | Premiere Pro, After Effects |
-| 🎧 Audio | Audacity |
-| 🛠 Office | Word, Excel, PowerPoint, Access |
-| 💻 Tools | Git, GitHub, VS Code, Linux |
-| 🔒 Security | Tor Browser |
-| ⚙ Advanced | Rust |
-
-</div>
-
----
-
-# 🌐 Languages
-
-<div align="center">
-
-🇬🇧 English — Professional Working Proficiency  
-🇱🇰 Sinhala — Native  
-
-</div>
-
----
-
-# 📫 Connect With Me
+# 📫 Contact
 
 <div align="center">
 
 <a href="mailto:amishkathejanperera@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/amiztp">
-<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge"/>
 </a>
 
 </div>
