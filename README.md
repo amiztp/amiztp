@@ -1,127 +1,124 @@
 <!-- ========================================= -->
-<!--              AMISHKA THEJAN              -->
+<!--              AMISHKA README              -->
 <!-- ========================================= -->
 
 <div align="center">
 
-```txt
-█▀▀█ █▀▄▀█ ▀█▀ █▀▀ █░░█ █▀▀ █░▄▀ █▀▀█
-█▄▄█ █░▀░█ ░█░ ▀▀█ █▀▀█ █▀▀ █▀▄░ █▄▄█
-▀░░▀ ▀░░░▀ ▀▀▀ ▀▀▀ ▀░░▀ ▀▀▀ ▀░▀▀ ▀░░▀
-```
+# <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%91%8B+Hey+There!;%F0%9F%92%BB+I'm+Amishka+Thejan;%E2%9A%A1+Creative+Developer;%F0%9F%9A%80+Tech+Enthusiast" />
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=140&lines=%E2%96%88%E2%96%88%E2%96%93+AMISHKA+THEJAN+%E2%96%93%E2%96%88%E2%96%88;%3C%2F%3E+RGB+GLITCH+MODE+ACTIVE+%3C%2F%3E"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AMISHKA%20THEJAN&fontAlign=50&fontAlignY=40&color=0:ff00ff,25:00ffff,50:ffffff,75:00ffff,100:ff00ff&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Creative+Developer+%7C+Software+Enthusiast+%7C+Motion+Designer"
-/>
+<!-- RGB GLITCH NAME -->
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1500&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%3C+AMISHKA+THEJAN+%2F%3E;%3C+CREATIVE+DEVELOPER+%2F%3E;%3C+SOFTWARE+ENGINEERING+ENTHUSIAST+%2F%3E" />
 
----
+<br><br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=amiztp&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
-# 🌟 About Me
+<img src="https://img.shields.io/github/followers/amiztp?style=for-the-badge&color=00ffff&labelColor=000000"/>
 
-```txt
-A passionate undergraduate student at the
-Faculty of Technology,
-University of Sri Jayewardenepura.
-
-Focused on software development,
-creative technologies,
-motion graphics,
-and modern digital experiences.
-
-Building innovative solutions
-where technology meets creativity.
-```
+<img src="https://img.shields.io/github/stars/amiztp?style=for-the-badge&color=ff00ff&labelColor=000000"/>
 
 </div>
 
 ---
 
+# 💫 About Me
+
 <div align="center">
 
-# 🎯 Career Objective
+🎓 Undergraduate Student at the  
+Faculty of Technology, University of Sri Jayewardenepura
 
-```txt
-To become a highly skilled IT professional
-with expertise in software engineering,
-creative design,
-technical support,
-and modern digital technologies
-while contributing to impactful real-world projects.
-```
+💻 Passionate about:
+Web Development • Software Engineering • Motion Graphics • Creative Design
+
+🚀 Building real-world projects with modern technologies and creative solutions.
 
 </div>
 
 ---
 
+# ⚡ Tech Stack
+
 <div align="center">
 
-# 🛠️ Technical Skills
+## 💻 Languages
 
-## 💻 Programming & Development
+<img src="https://skillicons.dev/icons?i=python,java,c,php,html,css&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,php,html,css" />
-</p>
+<br><br>
 
----
+## 🎨 Creative Tools
 
-## 🎨 Creative & Design Tools
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
-</p>
+<br><br>
 
----
+## ⚙️ Platforms & Tools
 
-## ⚙️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
 </div>
 
 ---
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-# 📚 Office Tools
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=radical&hide_border=true&border_radius=20"/>
 
-📄 Microsoft Word  
-📊 Microsoft Excel  
-📽️ Microsoft PowerPoint  
-📁 Microsoft Access  
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=radical&hide_border=true&border_radius=20"/>
 
 </div>
 
 ---
 
+# 📈 Contribution Graph
+
 <div align="center">
 
-# 🤹‍♂️ Soft Skills
-
-✅ Team Collaboration  
-✅ Fast Learner  
-✅ Adaptability  
-✅ Time Management  
-✅ Attention to Detail  
-✅ Creative Thinking  
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=amiztp&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amiztp&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🧠 Skills
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| 💻 Programming | Python, Java, C, PHP |
+| 🌐 Web Development | HTML, CSS |
+| 🎨 Creative Design | Photoshop, Illustrator |
+| 🎬 Video Editing | Premiere Pro, After Effects |
+| 🛠 Technical Support | PC Building, Troubleshooting |
+| 📊 Office Tools | Word, Excel, PowerPoint |
+
+</div>
+
+---
 
 # 🌐 Languages
+
+<div align="center">
 
 🇬🇧 English — Professional Working Proficiency  
 🇱🇰 Sinhala — Native  
@@ -130,106 +127,29 @@ while contributing to impactful real-world projects.
 
 ---
 
-<div align="center">
-
-# 📌 Interests
-
-💡 Technology & Innovation  
-👨‍💻 Web & Software Development  
-🎨 Graphic Design & Motion Graphics  
-🎬 Video Editing & Visual Storytelling  
-📚 Continuous Learning  
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 GitHub Analytics
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📈 Contribution Graph
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=amiztp&theme=react-dark&hide_border=true&area=true"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🧠 Skills Overview
-
-| Category | Skills |
-|---|---|
-| Programming | Python, Java, C, PHP |
-| Web Development | HTML, CSS |
-| Creative Tools | Photoshop, Illustrator, Premiere Pro, After Effects |
-| Technical Support | PC Building, Troubleshooting, Maintenance |
-| Platforms | Git, GitHub, VS Code, Linux |
-| Productivity | Word, Excel, PowerPoint |
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Current Focus
-
-```yaml
-Learning:
-  - Advanced Web Development
-  - Software Engineering
-  - UI/UX Design
-  - Motion Graphics
-
-Building:
-  - Creative Projects
-  - Web Applications
-  - Visual Content
-```
-
-</div>
-
----
-
-<div align="center">
-
 # 📫 Connect With Me
 
+<div align="center">
+
 <a href="mailto:amishkathejanperera@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-FF003C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-ff0055?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/amiztp">
-<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-
 # ⚡ Quote
 
-> _“Strive not to be a success, but rather to be of value.”_  
-> — Albert Einstein
+<div align="center">
+
+> ### “Strive not to be a success, but rather to be of value.”
+
+— Albert Einstein
 
 </div>
 
@@ -237,8 +157,6 @@ Building:
 
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&text=THANKS%20FOR%20VISITING&fontSize=35&fontColor=ffffff&color=0:ff0000,50:00f7ff,100:7a5cff&animation=twinkling"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff00ff,25:00ffff,50:ffffff,75:00ffff,100:ff00ff"/>
 
 </div>
