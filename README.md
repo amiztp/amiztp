@@ -1,92 +1,135 @@
-# 👋 Hey there! I'm **Amishka Thejan**
+<!-- ========================================= -->
+<!--          AMISHKA THEJAN README           -->
+<!-- ========================================= -->
 
-🎓 **Undergraduate Student**  
-Faculty of Technology, University of Sri Jayewardenepura  
-📍 Based in Sri Lanka  
+<h1 align="center">Hi 👋, I'm Amishka Thejan</h1>
 
----
+<h3 align="center">
+Undergraduate Student | Creative Developer | Tech Enthusiast
+</h3>
 
-## 🌟 About Me
-
-I'm a passionate and curious undergraduate studying at the **University of Sri Jayewardenepura**, Faculty of Technology. My interests lie in **technology, software development, creative design**, and **problem-solving**. I love building things that make people's lives easier — whether it's a script, a website, a visual effect, or a powerful presentation.
-
----
-
-## 🎯 Career Objective
-
-To become a well-rounded **IT professional** with strong skills in **software development**, **IT support**, and **creative design**, while continuously learning and contributing to impactful real-world projects.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Creative+Developer;Undergraduate+at+USJ;Web+Developer;Motion+Graphics+Designer;Software+Engineering+Enthusiast" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+# 🌟 About Me
 
-### 💻 Hardware & Technical Support
-- 🔧 PC Building & Troubleshooting
-- 🖥️ Software Installation & System Maintenance
+🎓 Undergraduate at the Faculty of Technology,  
+University of Sri Jayewardenepura, Sri Lanka
 
-### 📊 Office Tools
-- 📄 Microsoft Word
-- 📊 Microsoft Excel
-- 📽️ Microsoft PowerPoint
-- 📁 Microsoft Access
+💻 Passionate about:
+- Software Development
+- Creative Design
+- Motion Graphics
+- Web Technologies
+- Video Editing
+- UI/UX Concepts
 
-### 🎨 Creative & Design Tools
-- 🎬 Adobe After Effects (AE)
-- 🎞️ Adobe Premiere Pro (PR)
-- 🖌️ Adobe Photoshop (PS)
-- 🖍️ Adobe Illustrator (IL)
-
-### 💻 Programming & Web Development
-- 🐍 Python
-- 🌐 HTML, CSS
-- 🤖 PHP
-- ⚙️ C
-- 🤞 Java
+🚀 Currently learning and building real-world projects using modern technologies.
 
 ---
 
-## 🤹‍♂️ Soft Skills
-- ✅ Team Collaboration
-- ✅ Fast Learner
-- ✅ Adaptability
-- ✅ Time Management
-- ✅ Attention to Detail
-- ✅ Creative Thinking
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,php,html,css" />
+</p>
 
 ---
 
-## 🧰 Tools & Platforms
-- 💻 VS Code, Sublime Text
-- 🔗 Git & GitHub
-- 🐧 Linux (basic usage)
-- ☁️ Google Workspace
-- 🗂️ File & Data Management
+## 🎨 Creative Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
+</p>
 
 ---
 
-## 🌐 Languages
-- 🇬🇧 English — Professional Working Proficiency  
+## ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=tokyonight&hide_border=true&border_radius=15" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=amiztp&theme=tokyo-night&hide_border=true&area=true"
+/>
+</p>
+
+---
+
+# 🧠 Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python, Java, C, PHP |
+| Web Development | HTML, CSS |
+| Creative Design | Photoshop, Illustrator |
+| Video Editing | Premiere Pro, After Effects |
+| Technical Support | PC Building, Troubleshooting |
+| Productivity | Word, Excel, PowerPoint |
+
+---
+
+# 🎯 Career Objective
+
+To become a well-rounded IT professional with strong expertise in software development, creative technologies, and innovative digital solutions while continuously learning and contributing to impactful projects.
+
+---
+
+# 🌐 Languages
+
+- 🇬🇧 English — Professional Working Proficiency
 - 🇱🇰 Sinhala — Native
 
 ---
 
-## 📌 Interests
-- 💡 Technology & Innovation  
-- 👨‍💻 Web & Software Development  
-- 🎨 Graphic Design & Motion Graphics  
-- 🎬 Video Editing & Visual Storytelling  
-- 📚 Continuous Learning  
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:amishkathejanperera@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/amiztp">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: `amishkathejanperera@gmail.com`
-- 🔗 GitHub: [(https://github.com/amiztp)](https://github.com/amiztp)
+# ⚡ Fun Fact
+
+> “Strive not to be a success, but rather to be of value.”  
+> — Albert Einstein
 
 ---
 
-> _“Strive not to be a success, but rather to be of value.” – Albert Einstein_
-
----
-
-_Thank you for taking the time to read my profile!_ 😊
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:7a5cff&height=120&section=footer"/>
+</p>
