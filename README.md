@@ -11,7 +11,7 @@
 <!-- RGB GLITCH NAME -->
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%91%8B+Hey+There!;%F0%9F%92%BB+I'm+Amishka+Thejan;%E2%9A%A1+Creative+Developer;%F0%9F%9A%80+Tech+Enthusiast" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1500&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%3C+AMISHKA+THEJAN+%2F%3E;%3C+CREATIVE+DEVELOPER+%2F%3E;%3C+SOFTWARE+ENGINEERING+ENTHUSIAST+%2F%3E" />
+<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1500&pause=500&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%3C+AMISHKA+THEJAN+%2F%3E;%3C+CREATIVE+DEVELOPER+%2F%3E;%3C+SOFTWARE+ENGINEERING+ENTHUSIAST+%2F%3E" />-->
 
 <br><br>
 
