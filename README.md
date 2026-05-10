@@ -6,7 +6,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AMISHKA%20THEJAN&fontAlign=50&fontAlignY=40&color=0:ff00ff,25:00ffff,50:ffffff,75:00ffff,100:ff00ff&fontColor=ffffff&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=AMISHKA%20THEJAN&fontAlign=50&fontAlignY=40&color=0:ff00ff,25:00ffff,50:ffffff,75:00ffff,100:ff00ff&fontColor=000000&fontSize=50&animation=fadeIn"/>
 
 <!-- RGB GLITCH NAME -->
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%91%8B+Hey+There!;%F0%9F%92%BB+I'm+Amishka+Thejan;%E2%9A%A1+Creative+Developer;%F0%9F%9A%80+Tech+Enthusiast" />
