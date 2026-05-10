@@ -5,131 +5,102 @@
 <h1 align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=1000&lines=%E2%96%91%E2%96%92%E2%96%93+AMISHKA+THEJAN+%E2%96%93%E2%96%92%E2%96%91;CREATIVE+DEVELOPER;SOFTWARE+%26+DESIGN+ENTHUSIAST"
+src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2500&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=%E3%80%90+AMISHKA+THEJAN+%E3%80%91;RGB+GLITCH+MODE+ACTIVE"
 />
 
 </h1>
 
-<h3 align="center">
-🎓 Undergraduate Student | Faculty of Technology | University of Sri Jayewardenepura
-</h3>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amiztp&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="views"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1000&color=8A8A8A&center=true&vCenter=true&width=700&lines=Undergraduate+Student+%7C+Creative+Developer+%7C+Tech+Enthusiast"/>
+
 </p>
 
 ---
 
-# 🌟 About Me
+<div align="center">
 
-I'm a passionate and curious undergraduate studying at the **University of Sri Jayewardenepura**, Faculty of Technology.
+```txt
+┌──────────────────────────────────────────────┐
+│                                              │
+│   "Design. Code. Create. Innovate."          │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
-My interests lie in:
+</div>
 
-- 💻 Software Development
-- 🌐 Web Development
-- 🎨 Graphic Design
-- 🎬 Motion Graphics
-- 📹 Video Editing
-- ⚡ Creative Technology
-- 🤖 Problem Solving
+# About Me
 
-I enjoy building digital experiences that combine both **technology and creativity**.
+```txt
+A passionate undergraduate at the Faculty of Technology,
+University of Sri Jayewardenepura.
 
----
+Focused on software development, creative technologies,
+motion graphics, and modern digital experiences.
 
-# 🎯 Career Objective
-
-To become a highly skilled and well-rounded **IT Professional** with expertise in:
-
-- Software Engineering
-- Creative Design
-- Technical Support
-- Web Technologies
-- Modern Digital Solutions
-
-while continuously learning and contributing to impactful real-world projects.
+I enjoy transforming ideas into visually appealing and
+functional digital solutions.
+```
 
 ---
 
-# 🛠️ Technical Skills
+# Career Objective
 
-## 💻 Programming & Development
+```txt
+To become a skilled and innovative IT professional
+specializing in software engineering, creative design,
+and modern digital technologies while contributing to
+impactful real-world projects.
+```
 
-<p>
+---
+
+# Tech Stack
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css" />
+
 </p>
 
 ---
 
-## 🎨 Creative & Design Tools
+# Creative Tools
 
-<p>
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr" />
+
 </p>
 
 ---
 
-## ⚙️ Tools & Platforms
+# Tools & Platforms
 
-<p>
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+
 </p>
 
 ---
 
-# 📚 Office Tools
-
-- 📄 Microsoft Word
-- 📊 Microsoft Excel
-- 📽️ Microsoft PowerPoint
-- 📁 Microsoft Access
-
----
-
-# 🤹‍♂️ Soft Skills
-
-- ✅ Team Collaboration
-- ✅ Fast Learner
-- ✅ Adaptability
-- ✅ Time Management
-- ✅ Attention to Detail
-- ✅ Creative Thinking
-
----
-
-# 🌐 Languages
-
-- 🇬🇧 English — Professional Working Proficiency
-- 🇱🇰 Sinhala — Native
-
----
-
-# 📌 Interests
-
-- 💡 Technology & Innovation
-- 👨‍💻 Web & Software Development
-- 🎨 Graphic Design & Motion Graphics
-- 🎬 Video Editing & Visual Storytelling
-- 📚 Continuous Learning
-
----
-
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
+src="https://github-readme-stats.vercel.app/api?username=amiztp&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=tokyonight&hide_border=true&border_radius=20"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=amiztp&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -141,63 +112,38 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=amiztp&theme
 
 ---
 
-# 🧠 Skills Overview
+# Skills
 
-| Category | Skills |
+| Area | Technologies |
 |---|---|
 | Programming | Python, Java, C, PHP |
-| Web Development | HTML, CSS |
-| Creative Tools | Photoshop, Illustrator, Premiere Pro, After Effects |
-| Technical Support | PC Building, Troubleshooting, Maintenance |
-| Platforms | Git, GitHub, VS Code, Linux |
-| Productivity | Word, Excel, PowerPoint |
+| Web | HTML, CSS |
+| Design | Photoshop, Illustrator |
+| Editing | Premiere Pro, After Effects |
+| Platforms | GitHub, VS Code, Linux |
 
 ---
 
-# 🚀 Current Focus
+# Connect
 
-```yaml
-Learning:
-  - Advanced Web Development
-  - Software Engineering
-  - UI/UX Design
-  - Motion Graphics
-
-Building:
-  - Creative Projects
-  - Web Applications
-  - Visual Content
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
+<p align="center">
 
 <a href="mailto:amishkathejanperera@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/amiztp">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Quote
-
-> _“Strive not to be a success, but rather to be of value.”_  
-> — Albert Einstein
-
----
-
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=180&text=THANKS%20FOR%20VISITING&fontSize=35&fontColor=ffffff&color=0:00c3ff,50:7a5cff,100:ff00c8&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&section=footer"
 />
 
 </p>
