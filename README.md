@@ -48,8 +48,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/732/732218.png" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/15465/15465726.png" height="40"/>
 </p>
-
----
+<br><br>
 
 ## 🎥 Media & Utility Software
 
@@ -59,6 +58,7 @@
 <img src="https://cdn.simpleicons.org/torproject/7D4698" height="40"/>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/rustdesk/FF6600" height="40"/>
 </p>
+<br><br>
 
 </div>
 
@@ -124,20 +124,6 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=amiztp&theme
 </a>
 
 </div>
-
----
-
-# ⚡ Quote
-
-<div align="center">
-
-> “Strive not to be a success, but rather to be of value.”
-
-— Albert Einstein
-
-</div>
-
----
 
 <div align="center">
 
